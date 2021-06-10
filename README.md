@@ -1,10 +1,17 @@
+# info
+
+deps: discord.js, axios, leveldb, ethers, bignumber
+
+author: elee
 
 # instructions:
 
-git clone repo
-populate env file
-npm i
-node index.js
+1. git clone repo
+2. populate env file
+3. npm i
+4. node index.js
+
+
 
 tested with node v14.16.0
 
